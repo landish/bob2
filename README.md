@@ -1,20 +1,11 @@
-> [!Note]
-> This is a note block.
+> [!NOTE]
+> These sources are all leaked. Nothing here is "UD" or updated; you'll need to modify them.
 
-> [!Warning]
-> Be careful when using this.
+> [!WARNING]
+> Double-check for malware! These sources are just reposted (check `.vcxproj` for external downloads, `.lib` files).
 
-> [!Tip]
-> A useful tip for you.
+> [!TIP]
+> Use `Ctrl + C` to copy faster.
 
-> [!Caution]
-> Proceed with caution!
-
-> [!Info]
-> Some useful information.
-
-> [!Success]
-> Operation was successful.
-
-> [!Failure]
-> Something went wrong.
+> [!CAUTION]
+> Proceed with caution! Some files may be outdated.
